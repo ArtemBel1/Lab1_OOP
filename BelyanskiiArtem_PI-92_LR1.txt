@@ -1,0 +1,21 @@
+Отчёт по лабораторной работе №1 по ООП.
+
+Описание действий, сделанных мной до первого commit.
+1.Из проверенного источника была скачана система контроля версий git.
+2.Далее она была настроена при помощи данных команд:
+git config —global user.name "Your Name"
+git config —global user.email "your_email@whatever.com"
+git config —global core.autocrlf true
+git config —global core.safecrlf warn
+git config —global core.quotepath off
+3.Далее был создал каталог с название OOP, в котором и будет происходить дальнейшее выполнение лабораторной работы.
+4.Далее была произведена инициализация Git в данной папке при помощи пары команд:
+cd D:\ООП - Переход в нужную папку.
+git init - Инициализация выбранной папки.
+5. Создаём текстовый файл для отчёта при помощи данной команды:
+touch BelyanskiiArtem_PI-92_LR1.txt
+Далее мы его индексируем:
+git add BelyanskiiArtem_PI-92_LR1.txt
+6. Создаём первый commit:
+git commit -m "File Creation"
+7. Создаём комит, в котором расказывается о проделанной работе до данного времени.
