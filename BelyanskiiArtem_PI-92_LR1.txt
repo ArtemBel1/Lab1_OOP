@@ -19,3 +19,5 @@ git add BelyanskiiArtem_PI-92_LR1.txt
 6. Создаём первый commit:
 git commit -m "File Creation"
 7. Создаём комит, в котором расказывается о проделанной работе до данного времени.
+8. Создаём файл qw.txt, что бы продемонстрировать игнорирование. При помощи команды echo qw.txt > .gitignore создаю папку .gitignore и помещаем туда файл qw.txt. 
+Добавляем файл .gitignore при помощи команды git add .gitignore и создаём commit с описанием выполненого действия.
