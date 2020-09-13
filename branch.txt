@@ -1,2 +1,95 @@
-asd
-qwe
+[33mcommit 4cfc12f3bcd589d492da54c4a949c7ffbd8bddfa[m[33m ([m[1;36mHEAD -> [m[1;32mbeta[m[33m)[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 18:48:37 2020 +0700
+
+    branch - beta
+
+[33mcommit c919a3ddf8905a71cdfd0637471a8eb075f4d0b5[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 18:39:20 2020 +0700
+
+    Add file in branch master
+
+[33mcommit db59569c739c9428068c13e9c803c83096557894[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 18:37:41 2020 +0700
+
+    branch - master
+
+[33mcommit abceee3049f537c730bfc13c3abea1032d1bf154[m[33m ([m[1;33mtag: v1[m[33m)[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 17:33:44 2020 +0700
+
+    Indexed changes 2
+
+[33mcommit 9e66e2ab0e25645f76cf5c9c41a69d7ab23e29a5[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 17:26:45 2020 +0700
+
+    Indexed changes
+
+[33mcommit 571beb3d29ff02943d1b1fdae34ffbb801753024[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 17:16:25 2020 +0700
+
+    Unidexed changes 2
+
+[33mcommit 58c615bad862841d3d0e5b6b84f28e610830c5af[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 17:12:40 2020 +0700
+
+    Unidexed changes
+
+[33mcommit e681af37b59b94b778f129519df83d855af8e488[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 16:56:35 2020 +0700
+
+    Description of the log function
+
+[33mcommit 9ce1158d23a5979f223f15bd3b894971310304e9[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 16:50:23 2020 +0700
+
+    Add Moving
+
+[33mcommit 99c2fb600429f34f8135732f7eb8cb81665e6042[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 16:46:52 2020 +0700
+
+    first point moving
+
+[33mcommit 150660b6f168fbc2b7eaca98ef734ea7ef72efb8[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 15:32:21 2020 +0700
+
+    Add Removal
+
+[33mcommit 507e91fe84e931f64777b8fd275af39dd9129362[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 15:22:05 2020 +0700
+
+    Add comparison
+
+[33mcommit 51ea6d6a6cb995f65717bb36f7498fd5fef6f5c1[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 15:17:11 2020 +0700
+
+    Add ignore
+
+[33mcommit e420d729439788b0ee3647c1f153722a6916e11a[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 15:12:50 2020 +0700
+
+    Creation gitignore file
+
+[33mcommit 49a1b90f4a4dffa3465ad9430e85a364209859d7[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 15:10:25 2020 +0700
+
+    Initializing, Description
+
+[33mcommit f3e798f8ade8cae0ddbeab549d4d682a02427fc4[m
+Author: Belyanskii <Art.Belyanskii@yandex.ru>
+Date:   Sun Sep 13 15:05:10 2020 +0700
+
+    Creation File
